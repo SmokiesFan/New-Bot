@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.7.0",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "gfapi": "github:gameflip/gfapi",
+    "sha1": "^1.1.1",
+    "speakeasy": "^2.0.0"
+  },
+  "name": "gameflip",
+  "version": "1.0.0",
+  "description": "gameflip bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "help"
+  },
+  "keywords": [
+    "gameflip"
+  ],
+  "author": "",
+  "license": "ISC"
+}
