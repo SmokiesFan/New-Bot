@@ -3,7 +3,7 @@
 A gameflip auto posting bot that you can control from your discord.
 
 ## How to use ?
-- Go to config.js file add your discord bot token to it and add your id inside "" ownerIDs array to grant premium.
+- Go to config.js file add your discord bot token to it and add your id inside "" ownerIDs array to grant premium. then do node . in the terminal to start the bot.
 - Dont DM me on discord to spoonfeed you how to use the bot, figure it out yourself.
 
 ## Credits
