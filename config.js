@@ -5,7 +5,7 @@ module.exports = {
         statusType: 'PLAYING',
         token: 'add your discord bot token here lol',
         prefix: '$',
-        ownerIDs: ['727224012912197652' , '741898574815821868'],
+        ownerIDs: [], // add owner discord id here to grant premium
         ownerOnly: false
     }
 
